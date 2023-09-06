@@ -1,1 +1,162 @@
+{
+  "分享内容":"定制联系QQ16，定制联系QQ16",
+  "群KEY":"https://t.me",
+  "客服QQ":"暂无",
+  "客服微信":"暂无",
+  "启动页图片":"https://static.veer.com/veer-v2/cms/20230808/31d49085dd404974b7f662c454a002cb.jpg?x-oss-process=image/format,webp",
+  "启动页跳转":"https://t.me",
+  "启动页标题":"软件库",
+  "启动页副标题":"同款QQ16",
+  "启动页跳转时间":"5",
 
+  "公告标题":"",
+  "公告内容":"标题留空不显示弹窗，按钮文字留空不显示按钮，跳转链接留空不跳转",
+  "公告图片": "https://i.szpp.net/2022/10/22/7c94fb7bf86d9.png",
+  "公告按钮一":"按钮一",
+  "公告按钮一跳转":"https://m.baidu.com",
+  "公告按钮二":"按钮二",
+  "公告按钮二跳转":"",
+  "公告按钮三":"按钮三",
+  "公告按钮三跳转":"https://m.baidu.com",
+  
+  "当前版本": "1.0.0",
+  "更新标题": "软件库",
+  "更新内容": "请更新，新版本v1.1版本",
+  "强制更新": "开启",
+  "更新按钮一":"飞机群",
+  "更新按钮一跳转":"https://t.m",
+  "更新按钮二":"点击更新1",
+  "更新按钮二跳转":"https://lanz",
+  "更新按钮三":"点击更新2",
+  "更新按钮三跳转":"https://la",
+
+  "界面一标题": "首页",
+  "界面一副标题": "欢迎使用软件库",
+  "首页滚动公告": "欢迎使用软件库欢迎使用软件库欢迎使用软件库",
+  "首页文字": "热门推荐",
+
+  "界面二标题": "软件",
+  "界面二副标题": "软件都是破解版，免费使用",
+
+  "界面三标题": "线报",
+  "界面三副标题": "欢迎使用噬心软件库",
+
+  "界面四标题": "我的",
+  "界面四副标题": "欢迎使用噬心软件库",
+  "界面四文字一": "噬心软件库",
+  "界面四文字二": "v1.0.0",
+  "界面四文字三": "QQ16",
+
+  "界面四选项": [
+    {
+      "标题": "官方网址",
+      "副标题": "副标题副标题",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "官方网址",
+      "副标题": "副标题副标题",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "官方网址",
+      "副标题": "副标题副标题",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "官方网址",
+      "副标题": "副标题副标题",
+      "链接": "https://m.baidu.com"
+    }
+  ],
+
+  "软件分类": [
+    {
+      "标题": "精品软件",
+      "任务": "关闭",
+      "链接": "https://lanzoux.com/b0nhkk3i",
+      "置顶": [
+        {
+          "name_all": "置顶测试",
+          "ico": "https://aa665566aa.com/f446d5f555b14f8f82acd87a6e9b1f7b.png",
+          "url": "https://11hh93.com:13355",
+          "time": "QQ16，置顶测试"
+        }
+      ]
+    },
+    {
+      "标题": "精品游戏",
+      "任务": "关闭",
+      "链接": "https://lanzoux.com/b0nhkk3i",
+      "置顶": [
+        
+      ]
+    },
+     {
+      "标题": "科学上网",
+      "任务": "关闭",
+      "链接": "https://lanzoux.com/b0nhkk3i",
+      "置顶": [
+        
+      ]
+    }
+  ],
+
+  "首页轮播图": [
+    {
+      "标题": "软件库",
+      "图片": "https://static.veer.com/veer-v2/cms/20230822/d641d56e79ed450e8f02ec1f150185ce.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "官方群聊",
+      "图片": "https://static.veer.com/veer-v2/cms/20230808/31d49085dd404974b7f662c454a002cb.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "官方群聊",
+      "图片": "https://static.veer.com/veer-v2/cms/20230626/451112006a4e46c7b968e886d624cdad.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    }
+  ],
+
+  "首页列表": [
+    {
+      "图片": "https://static.veer.com/veer-v2/cms/20230822/9b57ea9851ce43ce8a1b3949e80fb315.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "图片": "https://static.veer.com/veer-v2/cms/20230822/0123e63c9e714bdc9a0889649c90ebe5.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "图片": "https://static.veer.com/veer-v2/cms/20230626/7c9e0b4dd7704a489f1f600e4e169d8b.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "图片": "https://static.veer.com/veer/static/resources/keyword/2022-09-22//59b8cf6132fb46c893c792fe563b8eab.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    }
+  ],
+
+  "线报列表": [
+    {
+      "标题": "永久地址【必看】",
+      "内容": "软件库，同款联系QQ16",
+      "图片": "https://static.veer.com/veer-v2/cms/20230822/0123e63c9e714bdc9a0889649c90ebe5.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "软件不能下载、安装的解决办法",
+      "内容": "软件库，同款联系QQ16",
+      "图片": "https://static.veer.com/veer/static/resources/keyword/2022-08-31//2d281d3f2ade43a6b1956bebd645d04a.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    },
+    {
+      "标题": "公告声明",
+      "内容": "软件库，同款联系Q",
+      "图片": "https://alifei05.cfp.cn/creative/vcg/veer/612/veer-429334234.jpg?x-oss-process=image/format,webp",
+      "链接": "https://m.baidu.com"
+    }
+  ]
+}
